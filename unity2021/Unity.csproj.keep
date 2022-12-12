@@ -81,6 +81,9 @@
     <Reference Include="UnityEngine.TextRenderingModule">
       <HintPath>{{UNITY_HOME}}\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
+    <Reference Include="PDFRendererPlugin">
+      <HintPath>{{WORK_DIR}}\DocumentSee\Assets\3rd\PDFRenderer\PDFRendererPlugin.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
