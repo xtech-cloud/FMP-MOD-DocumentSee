@@ -1,0 +1,19 @@
+
+/_dist_/
+/_build_/
+/DocumentSee/Assets/TextMesh Pro/
+/DocumentSee/Assets/TextMesh Pro.meta
+/DocumentSee/Assets/Plugins/
+/DocumentSee/Assets/Plugins.meta
+/DocumentSee/Assets/3rd/
+/DocumentSee/Assets/3rd.meta
+/DocumentSee/Library/
+/DocumentSee/obj/
+/DocumentSee/Logs/
+/DocumentSee/Temp/
+/DocumentSee/UserSettings/
+/DocumentSee/*.sln
+/DocumentSee/*.csproj
+/DocumentSee/.vsconfig
+/DocumentSee/.vs/
+/.UNITY_HOME.env
